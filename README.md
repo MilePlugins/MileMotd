@@ -1,0 +1,2 @@
+# MileMotd
+Plugin MileMotd
